@@ -14,6 +14,6 @@
 
 ## CompTIA Security+
 
-* [How to Study]
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/CompTIASecurity%2B.md)
 
 <img width="878" alt="Image" src="https://github.com/user-attachments/assets/ef070847-44dd-40e3-8a7f-792eb542d8c7" />
