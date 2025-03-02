@@ -9,7 +9,7 @@
    - CyberSpace Defense WO 25-01
 2. [IT Exam Academy](https://itexamanswers.net/)
 3. [CCNA Training](https://www.9tut.com/)
-4. Youtube Lactures
+4. Youtube Lectures
    - David Bombal Tech [FREE CCNA 200-301 course](https://youtu.be/tj3yCZWOWYc?si=VxCqVq3LbVB3qtKV)
 5. Practice Questions
    - [ExamTopic](shttps://www.examtopics.com/exams/cisco/200-301/)
