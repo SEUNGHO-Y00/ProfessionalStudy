@@ -4,4 +4,4 @@
 
 * Inforsec Skills BootCamp 
 
-[The Basics_ EC-Council CEH.pdf](https://github.com/user-attachments/files/19044854/The.Basics_.EC-Council.CEH.pdf)
+<img width="817" alt="Image" src="https://github.com/user-attachments/assets/49098da4-560b-4dd6-8dc6-c3079f2dfd10" />
