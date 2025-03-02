@@ -1,6 +1,6 @@
 # How to study CEH
 
-## Study Resourse
+## Study Resource
 
 * Inforsec Skills BootCamp 
 
