@@ -8,3 +8,4 @@
    - Getting Started with Cisco Packet Tracer
    - CyberSpace Defense WO 25-01
 2. [IT Exam Academy](https://itexamanswers.net/)
+3. [CCNA Training](https://www.9tut.com/)
