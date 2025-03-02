@@ -3,6 +3,9 @@
 ## Degrees
 
 ### University of California, Berkeley – MASTER OF MOLECULAR SCIENCE & SOFTWARE ENGINEERING
+
+* [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/MSSEProjects.md)
+
 ### University of California, Berkeley – MASTER OF INFORMATION AND CYBERSECURITY
 
 * [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/MICSProjects.md)
