@@ -7,7 +7,7 @@
 ### American Military University – BACHELOR OF SCIENCE IN CYBERSECURITY | Cum Laude
 ### Seattle Central College – ASSOCIATE OF SCIENCE – COMPUTER SCIENCE
 
-* [Deploma]()
+* [Deploma](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Degrees.md)
 
 ## Certification
 
