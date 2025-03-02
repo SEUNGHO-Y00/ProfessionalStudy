@@ -2,7 +2,9 @@
 
 ## CCNA
 
-* https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/CCNA.md
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/CCNA.md)
+
+<img width="763" alt="Image" src="https://github.com/user-attachments/assets/daee5d51-eb2d-4dd7-9d29-e5db6984c6ea" />
 
 ## CEH
 
