@@ -12,4 +12,4 @@
 4. Youtube Lectures
    - David Bombal Tech [FREE CCNA 200-301 course](https://youtu.be/tj3yCZWOWYc?si=VxCqVq3LbVB3qtKV)
 5. Practice Questions
-   - [ExamTopic](shttps://www.examtopics.com/exams/cisco/200-301/)
+   - [ExamTopics](https://www.examtopics.com/exams/cisco/200-301/)
