@@ -9,3 +9,4 @@
 
 * Shawn Powers [Linux Essentials](https://youtu.be/skTShEHyXfo?si=VL9NHmbTOiQd_AaQ)
 * Attended in Cyber Defense Warrant Officer Basic Course (255s)
+* LPI Linux Essentials: Study Guide, Third Edition By: Richard Blum, Christine Bresnahan
