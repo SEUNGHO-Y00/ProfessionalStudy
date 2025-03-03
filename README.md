@@ -1,4 +1,4 @@
-# ProfessionalStudy
+# Professional Study
 
 ## Degrees
 
