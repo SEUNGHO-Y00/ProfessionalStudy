@@ -32,3 +32,7 @@
 
 ## DoD Tools (ACAS, ESM, Elastic)
 - [DoD Tools Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/DoDToolsLabs.md)
+
+## Scripting and Programming
+
+## Securing Windows and PowerShell Automation
