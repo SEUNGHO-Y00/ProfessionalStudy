@@ -1,16 +1,20 @@
 # Cyber Defense Warrant Officer Basic Course
 
 ## Common Network Basic
-- Cisco Networking Academy
+* Cisco Networking Academy
+  - [IT Exam Academy](https://itexamanswers.net/)
 
 ## Introduction to Networks
-- Cisco Networking Academy
+* Cisco Networking Academy
+  - [IT Exam Academy](https://itexamanswers.net/)
 
 ## Routing and Switching Essentials
-- Cisco Networking Academy
+* Cisco Networking Academy
+  - [IT Exam Academy](https://itexamanswers.net/)
 
 ## Virtualization
-- Cisco Networking Academy
+* Cisco Networking Academy
+  - [IT Exam Academy](https://itexamanswers.net/)
 
 ## Linux Fundamentals
 - Linux Labs operation
