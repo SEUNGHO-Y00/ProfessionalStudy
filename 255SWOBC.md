@@ -16,10 +16,13 @@
 - Linux Labs operation
 
 ## Cyber Security Basics
-- Cisco Networking Academy
+
+* [CyberSpace Defense WO 25-01](https://github.com/SEUNGHO-Y00/PersonalStudy/blob/main/CyberSpace%20Defense.md)
 
 ## WIN/T Security with Palo Alto
-- Palo Alto Networks
+
+* [Palo Alto Networks Academy](https://paloaltonetworksacademy.net/)
+* [PCCET Certification Youtube Lecture](https://youtu.be/bKU4VShdPuY?si=FteWn-qWFnk0FIAm)
 
 ## DoD Tools (ACAS, ESM, Elastic)
 - Cisco Networking Academy
