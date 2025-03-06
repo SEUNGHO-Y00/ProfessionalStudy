@@ -21,6 +21,8 @@
 
 * [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/255SWOBC.md)
 
+### Nodal Network Maintainer and operator (Advance Individual Training)
+
 ## Certification
 
 ### CCNA, CEH, CompTIA Security+
