@@ -18,6 +18,7 @@
 ## Cyber Security Basics
 
 * [CyberSpace Defense WO 25-01](https://github.com/SEUNGHO-Y00/PersonalStudy/blob/main/CyberSpace%20Defense.md)
+  - Cisco Networking Academy
 
 ## WIN/T Security with Palo Alto
 
