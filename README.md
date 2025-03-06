@@ -15,6 +15,12 @@
 
 * [Deploma](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Degrees.md)
 
+## Military Education
+
+### Cyber Defense Warrant Officer (255s WOBC)
+
+* [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/255SWOBC.md)
+
 ## Certification
 
 ### CCNA, CEH, CompTIA Security+
