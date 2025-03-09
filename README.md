@@ -16,7 +16,7 @@
 
 ### Seattle Central College – ASSOCIATE OF SCIENCE – COMPUTER SCIENCE
 
-* [Deploma](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Degrees.md)
+* [Deploma](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/SCCDegrees.md)
 
 ## Military Education
 
