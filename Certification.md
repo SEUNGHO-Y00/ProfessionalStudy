@@ -12,6 +12,12 @@
 
 <img width="758" alt="Image" src="https://github.com/user-attachments/assets/aa3d38bb-0dfc-48af-aba2-7595721072e8" />
 
+## Linux Essential
+
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/LinuxEssential.md)
+
+<img width="876" alt="Image" src="https://github.com/user-attachments/assets/9bfb723f-606d-447d-af4d-ec6f60f85909" />
+
 ## CompTIA Security+
 
 * [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/CompTIASecurity%2B.md)
