@@ -30,8 +30,8 @@
 
 * [DoD Tools Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/DoDToolsLabs.md)
 
+## Securing Windows and PowerShell Automation
+
 ## Virtualization
 
-## Scripting and Programming
 
-## Securing Windows and PowerShell Automation
