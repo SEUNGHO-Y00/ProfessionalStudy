@@ -22,7 +22,7 @@
 
 ### Cyber Defense Warrant Officer (255s WOBC)
 
-* [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/255SWOBC.md)
+* [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/README.md)
 
 ### Nodal Network Maintainer and operator (Advance Individual Training)
 
