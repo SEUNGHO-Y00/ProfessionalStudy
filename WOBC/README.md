@@ -39,6 +39,7 @@
 
 * Enterprise Security Management (ESM)
 * [Palo Alto Networks Academy](https://paloaltonetworksacademy.net/)
+* [Palo Alto Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/PaloAlto.md)
 * [PCCET Certification Youtube Lecture](https://youtu.be/bKU4VShdPuY?si=FteWn-qWFnk0FIAm)
 
 ## DoD Tools (ACAS, ESM, Elastic, Endgame)
