@@ -1,7 +1,8 @@
 # ElasticStack
 
-Resource from [Elastic](https://www.elastic.co/industries/public-sector/defense)
-[What is the ELK Stack](https://www.youtube.com/watch?v=jT-y6oS10jk&ab_channel=CodeOpsTrek)
+* Resource from [Elastic](https://www.elastic.co/industries/public-sector/defense)
+* [What is the ELK Stack](https://www.youtube.com/watch?v=jT-y6oS10jk&ab_channel=CodeOpsTrek)
+* [Beginner's Crash Course to Elastic Stack](https://youtu.be/gS_nHTWZEJ8?si=ZavMC9IR9A-nA1mi)
 
 ## Component Overview
 
