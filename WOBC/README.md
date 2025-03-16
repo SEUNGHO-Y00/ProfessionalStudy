@@ -26,7 +26,6 @@
 ## Linux Fundamentals
 
 * Introduction to Linux Operating Systems
-* [Linux Study Note]()
 * Linux Labs operation
 
 ## Cyber Security Basics
