@@ -30,4 +30,4 @@
 
 ### CCNA, CEH, Linux Essential, CompTIA Security+
 
-* [Industry Certifications](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification.md)
+* [Industry Certifications](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/README.md)
