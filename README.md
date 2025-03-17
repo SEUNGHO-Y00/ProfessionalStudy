@@ -4,7 +4,7 @@
 
 ### University of California, Berkeley – MASTER OF MOLECULAR SCIENCE & SOFTWARE ENGINEERING
 
-* [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/MSSEProjects.md)
+* [School Project](https://github.com/SEUNGHO-Y00/MSSE/blob/main/README.md)
 
 ### University of California, Berkeley – MASTER OF INFORMATION AND CYBERSECURITY
 
