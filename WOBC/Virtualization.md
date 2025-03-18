@@ -87,7 +87,7 @@
 
 ### 12. vSphere Troubleshooting
 
-### TDI (Tactical Data Infrastructure)
+### * TDI (Tactical Data Infrastructure)
 
 * Purpose:
   - TDI aims to enhance cyber defense capabilities by providing tools for identifying and mitigating cyber threats within the Army's tactical network.
