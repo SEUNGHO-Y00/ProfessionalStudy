@@ -55,6 +55,7 @@
 
 ## Securing Windows and PowerShell Automation
 
+* Introduction to PowerShell Automation
 * [Learn Windows PowerShell in a Month](https://www.youtube.com/playlist?list=PL6D474E721138865A)
 * [Powershell Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/PowerShell.md)
 
