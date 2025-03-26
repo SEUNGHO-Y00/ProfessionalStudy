@@ -4,6 +4,7 @@
 
 * Configure Basic Setting on a Router
 * Configure Basic Setting on a Switch
+* Subnetting
 * Cisco Networking Academy
   - [IT Exam Academy](https://itexamanswers.net/)
 
