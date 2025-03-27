@@ -4,15 +4,16 @@
 
 ### University of California, Berkeley – MASTER OF MOLECULAR SCIENCE & SOFTWARE ENGINEERING
 
-* [School Project](https://github.com/SEUNGHO-Y00/MSSE/blob/main/README.md)
+* [School Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/README.md)
 
 ### University of California, Berkeley – MASTER OF INFORMATION AND CYBERSECURITY
 
-* [School Project](https://github.com/SEUNGHO-Y00/MICS)
+* [School Study Note](https://github.com/SEUNGHO-Y00/MICS)
   
 ### American Military University – BACHELOR OF SCIENCE IN CYBERSECURITY | Cum Laude
 
-* [Deploma](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/AMUDegree.md)
+* [Deploma](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/AMU/Degree.md)
+* [School Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/AMU/README.md)
 
 ### Seattle Central College – ASSOCIATE OF SCIENCE – COMPUTER SCIENCE
 
@@ -22,7 +23,7 @@
 
 ### Cyber Defense Warrant Officer (255s WOBC)
 
-* [School Project](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/README.md)
+* [School Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/README.md)
 
 ### Nodal Network Maintainer and operator (Advance Individual Training)
 
