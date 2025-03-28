@@ -61,3 +61,15 @@
 * [Powershell Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/PowerShell.md)
 
 ## Securing Windows and PowerShell Automation
+
+
+## Network Intrusion Analysis, Zero Trust
+
+
+## Critical Security Controls
+
+
+## Incident Handling
+
+
+## SIEM
