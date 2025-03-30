@@ -4,6 +4,8 @@
 
 * [CEH-in-bullet-points](https://github.com/undergroundwires/CEH-in-bullet-points)
 
+* [EC-eccouncil](https://codered.eccouncil.org/)
+
 ## Ethical Hacking Tools
 
 * [Exploit Database](https://www.exploit-db.com/)
