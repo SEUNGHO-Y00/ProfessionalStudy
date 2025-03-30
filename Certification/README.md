@@ -18,6 +18,12 @@
 
 <img width="876" alt="Image" src="https://github.com/user-attachments/assets/9bfb723f-606d-447d-af4d-ec6f60f85909" />
 
+## CERTIFIED PROJECT OFFICER
+
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CPO.md)
+
+![Image](https://github.com/user-attachments/assets/65840daa-9d94-425e-95cd-bbcf157787b0)
+
 ## CompTIA Security+
 
 * [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CompTIASecurity+.md)
