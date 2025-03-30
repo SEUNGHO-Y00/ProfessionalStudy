@@ -1,4 +1,4 @@
-# American Military University – BACHELOR OF SCIENCE IN CYBERSECURITY
+# American Military University – Bachelor of Science in Cybersecurity
 
 ## ISSC 499 Senior Seminar in Cybersecurity
 
