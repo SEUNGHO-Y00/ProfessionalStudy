@@ -6,7 +6,8 @@
 
 ## Ethical Hacking Tools
 
-* [Exploit Database = Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+* [Exploit Database](https://www.exploit-db.com/)
+  - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more.
 * [Shodan.io](https://www.shodan.io/)
   - Search Engine for the Internet of Everything
 * [Censys](https://search.censys.io/)
