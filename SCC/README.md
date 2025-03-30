@@ -1,7 +1,5 @@
 # Seattle Central College – Associate of Science in Computer Science ASSOCIATE OF SCIENCE – COMPUTER SCIENCE
 
-## PSYC 100 General Psychology
-
 ## WEB 150 Intro to Javascript
 
 ## PHYS 116 Q-General Physics III
@@ -33,6 +31,8 @@
 ## MATH 142 Q-Precalc II: TRIG
 
 ---
+
+## PSYC 100 General Psychology
 
 ## JAPN 122 Japaneses II
 
