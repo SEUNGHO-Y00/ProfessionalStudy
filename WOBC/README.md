@@ -62,26 +62,32 @@
 
 ## Securing Windows and PowerShell Automation
 
+* Operating Systems Security
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module J: Securing Windows
 
 ## Network Intrusion Analysis, Zero Trust
 
+* Network Systems Management (NSM) Tools
+* Introduction to Zero Trust
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module N: Network Intrusion Analysis
 
-## Critical Security Controls
-
-* [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
-  - Module K: 20 CIS Controls
-
 ## Incident Handling
 
+* Incident Handling
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module L: Incident Handling
 
+## Critical Security Controls
+
+* Network Intrusion Analysis
+* [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
+  - Module K: 20 CIS Controls
+
 ## SIEM
 
+* Security Information and Event Management (SIEM)
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module M: SIEM
  
