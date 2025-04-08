@@ -337,26 +337,25 @@
 
 ---
 
-How to secure account? MFA, Password*
-IPSec? Create VPN tunneling WAN
-Encryption purpose? AH (Hashing), ESP (Encapsulation)
-Baseline? Standardize,
-least privilege? Restrict Access
-Chain of Custody environment no need? Cloud
-EFS? Encrypt file and folders
-Bit Locker? Physical protected
-Why NTFS format? Protect files, folders
-Benefit of GPO? Central management, domain control
-Vulnerability Scanner Tools? Nessus, 
-Vulnerability Scanner? Old patch, what’s wrong
-Window Service Update? Schedule Auto, patch, system update, what server locally
-Bruce Force Attack? Password attack and random attack, black out
-Deploy new server make secure?
-Patch break Identified issue? Figure out first
-Audit update software app? Update, patch
-Administrator account How to break? Role-based
-Why tool of log? Because of binary
-Admin advantage of solution? Reduce number of admin, limited manage by powershell
-Tool Managed GPO? Group Policy Management
-Effect GPO? GPresult
-
+* How to secure account? MFA, Password*
+* IPSec? Create VPN tunneling WAN
+* Encryption purpose? AH (Hashing), ESP (Encapsulation)
+* Baseline? Standardize,
+* least privilege? Restrict Access
+* Chain of Custody environment no need? Cloud
+* EFS? Encrypt file and folders
+* Bit Locker? Physical protected
+* Why NTFS format? Protect files, folders
+* Benefit of GPO? Central management, domain control
+* Vulnerability Scanner Tools? Nessus, 
+* Vulnerability Scanner? Old patch, what’s wrong
+* Window Service Update? Schedule Auto, patch, system update, what server locally
+* Bruce Force Attack? Password attack and random attack, black out
+* Deploy new server make secure?
+* Patch break Identified issue? Figure out first
+* Audit update software app? Update, patch
+* Administrator account How to break? Role-based
+* Why tool of log? Because of binary
+* Admin advantage of solution? Reduce number of admin, limited manage by powershell
+* Tool Managed GPO? Group Policy Management
+* Effect GPO? GPresult
