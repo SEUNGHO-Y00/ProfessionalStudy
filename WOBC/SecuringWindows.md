@@ -337,25 +337,29 @@
 
 ---
 
-* How to secure account? MFA, Password*
-* IPSec? Create VPN tunneling WAN
-* Encryption purpose? AH (Hashing), ESP (Encapsulation)
-* Baseline? Standardize,
-* least privilege? Restrict Access
+* What is a formula for risk? Vulnerability x Threats x Asset Value
+* Understand Vulnerability and threats?
+* SMB protocol? Port 445, 137, 139, Use firewall to stop it
+* How to secure an account? MFA, Password*
+* IPSec? Create VPN two mode transport LAN (Not encrypting) and tunneling WAN (Encrypting)
+  - Encryption purpose? AH (Authentication Header, Hashing), ESP (Encapsulation, Symmetric)
+* Baseline? Standardize, risk level accepted, least privilege
+  - least privilege? Restrict jobs, access
+* What is established least privilege? Contractors, just enough administration, access to powershell commend
 * Chain of Custody environment no need? Cloud
-* EFS? Encrypt file and folders
-* Bit Locker? Physical protected
+* Encrypting File System? Encrypt file and folders
+  - BitLocker? Physically compromised and protected
 * Why NTFS format? Protect files, folders
-* Benefit of GPO? Central management, domain control
-* Vulnerability Scanner Tools? Nessus, 
-* Vulnerability Scanner? Old patch, what’s wrong
+* benefits of GPO Active Directory? Central management, domain control
+* Vulnerability Scanner Tools? Nessus
+  - Vulnerability Scanner? Old patch, what’s wrong
 * Window Service Update? Schedule Auto, patch, system update, what server locally
-* Bruce Force Attack? Password attack and random attack, black out
-* Deploy new server make secure?
-* Patch break Identified issue? Figure out first
-* Audit update software app? Update, patch
-* Administrator account How to break? Role-based
+* Bruce Force Attack? Password attack and random guessing, black out
+* Deploy new server make secure? nothing to do with the purpose of the server
+* Patch loaded during testing, issue identified? Figure out the solution first
+* Outdated software app? Update, patch
+* Administrator account How to break those habits? Role-based
 * Why tool of log? Because of binary
-* Admin advantage of solution? Reduce number of admin, limited manage by powershell
+* Just enough admin solution, Admin advantage of solution? Reduce commend powershell, number of admin, limited manage by powershell
 * Tool Managed GPO? Group Policy Management
 * Effect GPO? GPresult
