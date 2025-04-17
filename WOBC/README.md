@@ -65,6 +65,7 @@
 * Operating Systems Security
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module J: Securing Windows
+  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/SecuringWindowsLabs.md)
 * [Securing Wndows Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/SecuringWindows.md)
 
 ## Network Intrusion Analysis, Zero Trust
