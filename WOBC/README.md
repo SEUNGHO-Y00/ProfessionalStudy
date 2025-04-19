@@ -2,8 +2,8 @@
 
 ## Common Network Basic
 
-* Configure Basic Setting on a Router
-* Configure Basic Setting on a Switch
+* Configure Basic Settings on a Router
+* Configure Basic Settings on a Switch
 * Subnetting
 * Cisco Networking Academy
   - [IT Exam Academy](https://itexamanswers.net/)
@@ -66,14 +66,15 @@
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module J: Securing Windows
   - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/SecuringWindowsLabs.md)
-* [Securing Wndows Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/SecuringWindows.md)
+* [Securing Windows Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/SecuringWindows.md)
 
-## Network Intrusion Analysis, Zero Trust
+## Critical Security Controls
 
 * Network Systems Management (NSM) Tools
-* Introduction to Zero Trust
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
-  - Module N: Network Intrusion Analysis
+  - Module K: 20 CIS Controls
+  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/NSMLabs.md)
+* [Critical Security Controls Study Note]()
 
 ## Incident Handling
 
@@ -81,15 +82,14 @@
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module L: Incident Handling
 
-## Critical Security Controls
-
-* Network Intrusion Analysis
-* [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
-  - Module K: 20 CIS Controls
-
 ## SIEM
 
 * Security Information and Event Management (SIEM)
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module M: SIEM
- 
+
+ ## Network Intrusion Analysis, Zero Trust
+
+* [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
+  - Module N: Network Intrusion Analysis
+* Introduction to Zero Trust
