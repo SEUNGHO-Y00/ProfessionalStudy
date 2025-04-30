@@ -10,3 +10,4 @@
 3. [CompTIA eBook Practice Test](https://learn.comptia.org/app/the-official-comptia-securityx-student-guide-exam-cas-005#materials)
 4. CompTIA CertMaster Practice for CASP+ CAS-004
 5. Infosec Skills - CompTIA CASP+ Training Boot Camp - CASP+ Practice Exam
+6. [CCCure](https://cccure.education/certification/certificate-detail/casp-003)
