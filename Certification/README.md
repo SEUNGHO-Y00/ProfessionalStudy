@@ -1,5 +1,9 @@
 # Industry Certifications
 
+## Security X
+
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CASP.md)
+
 ## CCNA
 
 * [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CCNA.md)
