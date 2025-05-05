@@ -4,6 +4,8 @@
 
 * [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CASP.md)
 
+<img width="903" alt="Image" src="https://github.com/user-attachments/assets/77b4c42b-ac77-4895-88ba-3212e5191464" />
+
 ## CCNA
 
 * [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CCNA.md)
