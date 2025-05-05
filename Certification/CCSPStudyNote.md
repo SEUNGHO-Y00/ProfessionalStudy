@@ -18,7 +18,15 @@
 
 ## Domain 2. Cloud Data Security
 
+1. Classification and data categorization
 
+2. Data lifecycle
+
+3. Data retention
+
+4. Data audits
+
+5. Data destruction and disposal
 
 ## Domain 3. Cloud Platform & Infrastructure Security
 
