@@ -30,6 +30,12 @@
 
 ## Domain 3. Cloud Platform & Infrastructure Security
 
+1. Cloud storage architecture
+
+2. Cloud security strategies
+
+3. Cloud platform risks and responsibilities
+
 ## Domain 4. Cloud Application Security
 
 ## Domain 5. Cloud Security Operations
