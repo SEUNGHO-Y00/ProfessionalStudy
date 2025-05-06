@@ -28,6 +28,9 @@
   - [How Malware Generates Mutex Names to Evade Detection](https://isc.sans.edu/diary/How+Malware+Generates+Mutex+Names+to+Evade+Detection/19429/)
 
 * Participate in Attack Analysis Using Trusted Tool Set
+  - Configure centralized logging
+  - Create a new domain Group Policy Object that configures an account lockout policy
+  - Perform manual Linux updates
 
 * Performing an Initial Attack Analysis
 
