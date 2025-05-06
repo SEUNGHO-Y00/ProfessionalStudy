@@ -51,3 +51,9 @@
 3. Change and configuration management
 
 ## Domain 6. Legal, Risk and Compliance
+
+1. Legal concepts
+
+2. Assurance framework and certification
+
+3. CSA and STAR
