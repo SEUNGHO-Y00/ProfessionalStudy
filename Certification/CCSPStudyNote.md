@@ -44,4 +44,10 @@
 
 ## Domain 5. Cloud Security Operations
 
+1. Physical and logical operations
+
+2. Monitoring capacity and maintenance
+
+3. Change and configuration management
+
 ## Domain 6. Legal, Risk and Compliance
