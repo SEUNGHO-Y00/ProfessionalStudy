@@ -73,8 +73,8 @@
 * Network Systems Management (NSM) Tools
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module K: 20 CIS Controls
-  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/NSMLabs.md)
-* [Critical Security Controls Study Note]()
+  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/CriticalSecurityControlsLabs.md)
+* [Critical Security Controls Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/CriticalSecurityControlsStudyNote.md)
 
 ## Incident Handling
 
