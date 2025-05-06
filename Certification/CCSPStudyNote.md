@@ -38,6 +38,10 @@
 
 ## Domain 4. Cloud Application Security
 
+1. Software development lifecycle
+
+2. Software testing
+
 ## Domain 5. Cloud Security Operations
 
 ## Domain 6. Legal, Risk and Compliance
