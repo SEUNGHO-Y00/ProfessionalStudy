@@ -89,6 +89,7 @@
 * Security Information and Event Management (SIEM)
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module M: SIEM
+  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/SIEMLabs.md)
 
  ## Network Intrusion Analysis, Zero Trust
 
