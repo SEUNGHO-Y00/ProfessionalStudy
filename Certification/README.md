@@ -1,6 +1,6 @@
 # Industry Certifications
 
-## Security X
+## SecurityX
 
 * [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CASP.md)
 
