@@ -30,4 +30,7 @@
 * Snorby Setup and Operation
 
 * QRadar - Snort Signatures, IDS Tuning, and Blocking
+  - Verify IDS Functionality = IBM QRadar Community Edition
+  - Create an ICMP Drop Rule
+  - Drop Network Traffic
 
