@@ -19,3 +19,6 @@
  
 * Data Exfiltration
   - User account information
+
+* Goal
+  - Detect cron jobs injected by the attacker
