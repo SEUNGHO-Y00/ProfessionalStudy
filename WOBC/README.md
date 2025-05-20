@@ -101,5 +101,5 @@
 ## Capstone
 
 * [Cloud range cyber - MSTI](https://msti.cloudrangecyber.com/#/)
-  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/CapstoneLab.md)
+  - [Simulations](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/CapstoneLab.md)
 
