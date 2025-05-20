@@ -95,7 +95,7 @@
 
 * [Cloud range cyber - MSTI](https://certification.cloudrangecyber.com/)
   - Module N: Network Intrusion Analysis
-  - [Labs](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/NetworkIntrusionAnalysisLab.md)
+  - [Simulations](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/NetworkIntrusionAnalysisLab.md)
 * Introduction to Zero Trust
 
 ## Capstone
