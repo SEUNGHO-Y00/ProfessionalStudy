@@ -12,6 +12,11 @@
 
 6. Configure a Web Application Firewall (WAF) to Manage and Secure Web Traffic
 
+* Deploy an Azure Application Gateway
+* Configure a routing rule
+* Configure a WAF policy
+
+
 7. Implement Snort to Evaluate Network Communications
 
 8. Implement Snort as a Network Intrusion Detection System
