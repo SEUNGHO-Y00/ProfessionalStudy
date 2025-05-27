@@ -29,3 +29,15 @@
   - Detect Database destruction through SQLi
   - Delete scheduled cron jobs
   - Remediate the vulnerability and mitigate the attack
+
+## 3. Trojan Mirage
+
+* Goal
+  - Detect alerts in SIEM
+  - Detect Popup Browser Execution
+  - Detect Notification and wallpaper change
+  - Detect the RAT
+  - Detect the Files located
+  - Word Document Analysis = Macro Contents
+  - Recommendations & Remediations
+ 
