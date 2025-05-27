@@ -102,4 +102,4 @@
 
 * [Cloud range cyber - MSTI](https://msti.cloudrangecyber.com/#/)
   - [Simulations](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/WOBC/CapstoneLab.md)
-
+* [QRadar: use cases series](https://youtube.com/playlist?list=PLHh9jhztlMyoH6BikXIPwXDkCH3a3aC4E&si=wL7zBNIWHf-vokP-)
