@@ -40,11 +40,51 @@
 ### 2. Vulnerability management
 * The vulnerability management domain includes concepts of threat intelligence, asset discovery, various controls, and attack mitigation.
 
+1. Fundamentals of threat intelligence
+
+2. Asset discovery
+
+3. Industry frameworks
+
+4. Scanning tools
+
+5. Prioritization
+
+6. Validation
+
+7. Attack mitigation, part 1
+
+8. Attack mitigation, part 2
+
+9. Controls
+
+10. Secure software development
+
 ### 3. Incident response and management
 * Incident response and management is an essential part of the CySA+ exam, and in this course we will cover topics such as attack frameworks, detection and analysis, and incident response activities.
 
+1. Attack frameworks
+
+2. Detection and analysis
+
+3. Preparation
+
+4. Containment, eradication and recovery
+
+5. Post incident
+
 ### 4. Reporting and communication
 * Reporting and communication are integral to vulnerability management and incident response practices. In this course, we will cover some of the most important topics in this domain.
+
+1. Vulnerability management
+
+2. Compliance reporting
+
+3. Reporting and communication
+
+4. Action plans
+
+5. Key performance indicators
 
 ---
 
