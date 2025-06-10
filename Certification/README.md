@@ -2,7 +2,7 @@
 
 ## SecurityX
 
-* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CASP.md)
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CompTIA/CASP.md)
 
 <img width="903" alt="Image" src="https://github.com/user-attachments/assets/77b4c42b-ac77-4895-88ba-3212e5191464" />
 
@@ -32,6 +32,6 @@
 
 ## CompTIA Security+
 
-* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CompTIASecurity+.md)
+* [How to Study](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/CompTIA/Security+.md)
 
 <img width="878" alt="Image" src="https://github.com/user-attachments/assets/ef070847-44dd-40e3-8a7f-792eb542d8c7" />
