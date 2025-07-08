@@ -1,8 +1,14 @@
 # Incident Handling Lab
 
 * Post Incident Service Restoration
+  - Configure startup services as directed.
+  - Configure firewall settings as directed.
 
 * Recover from Web-Based Flashpack Incident
+  - Use Wireshark to analyze network traffic and identify targets and vulnerabilities exploited
+  - Use Wireshark to identify delivery methods used
+  - Restore client systems to original functionality
+  - Flashpack Exploit Kit Used in Free Ads, Leads to Malware Delivery Mechanism
 
 * Recovering Data and Data Integrity Checks
 
