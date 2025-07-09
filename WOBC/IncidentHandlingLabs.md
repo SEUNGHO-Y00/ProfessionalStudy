@@ -16,6 +16,11 @@
 
 * Recovery From Inadequate Patching
 
+  - Become familiar with procedures used in backing up data
+  - Patch a system against an active vulnerability
+  - Perform a basic vulnerability assessment after the patching
+  - Roll back the applied patch or restore from backu
+
 * Remove Trojan
 
 * Respond to and Validate Alerts from Antivirus Software
