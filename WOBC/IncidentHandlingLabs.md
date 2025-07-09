@@ -11,6 +11,8 @@
   - Flashpack Exploit Kit Used in Free Ads, Leads to Malware Delivery Mechanism
 
 * Recovering Data and Data Integrity Checks
+  - Establish a baseline of two files and then delete those files.
+  - Restore and perform an integrity validation of files using the Windows utilities Shadow Copy and File Checksum Integrity Verifier (FCIV).
 
 * Recovery From Inadequate Patching
 
