@@ -23,6 +23,9 @@
 
 * Remove Trojan
 
+  - Understand how malware is introduced to systems.
+  - Follow a response plan to remove malware.
+
 * Respond to and Validate Alerts from Antivirus Software
 
 * Block Incoming Traffic on Known Port 
