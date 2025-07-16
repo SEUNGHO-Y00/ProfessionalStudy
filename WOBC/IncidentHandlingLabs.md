@@ -38,6 +38,11 @@
 
 * Compromise Assessment with Crowd Response
 
+  - Conduct incident response using Crowd Response
+  - Pull running processes
+  - Obtain system files
+  - Obtain open file handles
+
 * Disable User Account on Windows 10
   - Using Windows MMC to Disable User Account
   - Using Windows MMC to View Events After an Incident
