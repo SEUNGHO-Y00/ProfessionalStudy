@@ -28,6 +28,9 @@
 
 * Respond to and Validate Alerts from Antivirus Software
 
+  - Respond to Anti-Virus alerts
+  - Validate identified Anti-Virus alerts
+
 * Block Incoming Traffic on Known Port 
 
 * Compromise Assessment with Crowd Response
