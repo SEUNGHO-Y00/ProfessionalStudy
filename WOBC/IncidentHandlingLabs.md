@@ -30,6 +30,7 @@
 
   - Respond to Anti-Virus alerts
   - Validate identified Anti-Virus alerts
+  - Regedit, Registry Editor, is a built-in Windows tool that allows users to view and modify the Windows registry
 
 * Block Incoming Traffic on Known Port 
 
