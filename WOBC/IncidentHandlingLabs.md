@@ -34,6 +34,8 @@
 
 * Block Incoming Traffic on Known Port 
 
+  - To employ Microsoft Windows Firewall to block traffic to a known port from a specific IP address
+
 * Compromise Assessment with Crowd Response
 
 * Disable User Account on Windows 10
