@@ -61,6 +61,11 @@
 
 * Performing an Initial Attack Analysis
 
+  - Gather system information
+  - Identify anomalous processes, and events
+  - Identify various aspects of intrusion
+  - Identify extent of intrusion through analysis
+
 * Performing Incident Response in a Windows Environment
 
 * Improve IT Security by Using Incident Response Tools
