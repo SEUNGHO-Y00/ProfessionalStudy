@@ -68,6 +68,8 @@
 
 * Performing Incident Response in a Windows Environment
 
+  - Students will collect volatile data from a compromised machine.
+
 * Improve IT Security by Using Incident Response Tools
 
 * Manage Incidents by Using Incident Response Tools
