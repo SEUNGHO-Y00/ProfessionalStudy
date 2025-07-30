@@ -72,6 +72,10 @@
 
 * Improve IT Security by Using Incident Response Tools
 
+  - Configure centralized logging
+  - Create a new domain Group Policy Object that configures an account lockout policy
+  - Perform manual Linux updates
+
 * Manage Incidents by Using Incident Response Tools
 
 * Manage Security Reports and Alerts
