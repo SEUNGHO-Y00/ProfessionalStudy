@@ -15,7 +15,7 @@
 
 ### Network Security Professional
 
-* [Data Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/netsec-professional-datasheet.pdf)
+* [Data Sheet](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/netsec-professional-datasheet.pdf)
 * [Study Note]()
 
 ## Specialist
