@@ -16,7 +16,7 @@
 ### Network Security Professional
 
 * [Data Sheet](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/netsec-professional-datasheet.pdf)
-* [Study Note]()
+* [Study Note](https://github.com/SEUNGHO-Y00/ProfessionalStudy/blob/main/Certification/PaloAltoNetwork/NetworkSecurityProfessional.md)
 
 ## Specialist
 
