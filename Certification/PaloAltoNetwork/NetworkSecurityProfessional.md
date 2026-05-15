@@ -20,13 +20,22 @@ Course Modules
   * Common devices - Routers, Default Gateway, Access Point, Hub, Switches
   * Area Networks and Topologies
   * Global Internet Expansion Internet of Things (IoT)
+
 1.2 Routable and Routing Protocols
+ * Definitions to Know
+
 1.3 TCP/IP, OSI Model and IP Addressing
+
 1.4 Packet Lifecycle and Encapsulation
+
 1.5 Endpoint and Network Security
+
 1.6 Legacy vs Next Generation Firewalls
+
 1.7 Enterprise Firewall Administration
+
 1.8 Zero Trust Network Access
+
 1.9 Secure Access Service Edge
 
 ## 2. NGFW and SASE Solution Functionality
