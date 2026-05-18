@@ -41,6 +41,9 @@ Course Modules
 
 1.5 Endpoint and Network Security
  * Endpoint Security
+ * Mobile Device Management and Security - DLP
+ * Structured Host and Network Troubleshooting
+ * Common Troubleshooting Problems
 
 1.6 Legacy vs Next Generation Firewalls
 
