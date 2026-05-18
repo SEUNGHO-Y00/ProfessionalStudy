@@ -22,13 +22,25 @@ Course Modules
   * Global Internet Expansion Internet of Things (IoT)
 
 1.2 Routable and Routing Protocols
- * Definitions to Know
+ * Definitions to Know - Static Routing, Dynamic Routing
+ * Dynamic Routing Protocol Classifications - Convergence, Distance Vector (RIP), Link State, Path Vector
+ * Domain Name System - DNS Record Types (A or AAAA, CNAME, MX, PTR, SOA, NS, TXT)
 
 1.3 TCP/IP, OSI Model and IP Addressing
+ * OSI and TCP/IP Models - Layered Approach, OSI Model and TCP/IP Protocol Layers
+ * TCP/IP Transmissions - TCP/IP Protocol Stack
+ * Numbering Systems
+ * IP Addressing Basics - Loopback and Private Addresses, Subnet Mask
+ * Network Address Translation (NAT)
+ * Subnetting Fundamentals, IP Address Network Classes, & Subnet Masking
 
 1.4 Packet Lifecycle and Encapsulation
+ * Circuit Switching vs. Packet Switching - Packet Segmentation Workflow
+ * How Does Data Encapsulation Work?
+ * Virtual Private Networks - VPN Protocols and Composition (L2TP, SSTP, OpenVPN, MPPE), PPTP, IPsec (SA), SSL
 
 1.5 Endpoint and Network Security
+ * Endpoint Security
 
 1.6 Legacy vs Next Generation Firewalls
 
