@@ -46,8 +46,16 @@ Course Modules
  * Common Troubleshooting Problems
 
 1.6 Legacy vs Next Generation Firewalls
+ * Legacy Firewalls - Packet Filtering Firewalls, Stateful Packet Inspection Firewalls, Application Firewalls
+ * Next Generation Firewall Architecture
+ * Intrusion Detection and Prevention - Classifications
 
 1.7 Enterprise Firewall Administration
+ * What is Identity Access Management(IAM)
+ * Authentication
+ * Role-Based Access Control
+ * User Profiles
+ * App-ID
 
 1.8 Zero Trust Network Access
 
