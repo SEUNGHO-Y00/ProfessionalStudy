@@ -55,11 +55,18 @@ Course Modules
  * Authentication
  * Role-Based Access Control
  * User Profiles
- * App-ID
+ * App-ID - Granular Control, Visibility, Positive Enforcement
+ * User-ID - Visibility, Policy Control, Logging, and Reporting
+ * Content-ID - Application decoders, Uniform Threat Signature format, Vulnerability Attack Protection (IPS), Cloud-Based Intelligence, SSL Decryption, Control of Circumventing Technologies
 
 1.8 Zero Trust Network Access
+* Implementing Zero Trust
+* Zero Trust Security Model
+* Zero Trust Capabilities
 
-1.9 Secure Access Service Edge
+1.9 Secure Access Service Edge (SASE)
+* Challenges with Traditional Network Designs
+* Introducing Prisma SASE Simplifying Cloud Security and Access
 
 ## 2. NGFW and SASE Solution Functionality
 
