@@ -4,6 +4,8 @@
 
 [Github XK0-006](https://github.com/unixerius/XK0-006/tree/main)
 
+[Cisco Linux Essentials](https://www.netacad.com/courses/linux-essentials?courseLang=en-US)
+
 1.  Introduction
 2.  Basic Linux System Concepts
 3.  Basic Linux Commands
