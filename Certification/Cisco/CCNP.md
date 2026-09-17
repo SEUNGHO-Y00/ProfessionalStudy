@@ -1,127 +1,80 @@
-# CCNP Enterprise: Core Networking (v9)
+# CCNP Enterprise: Implementing and Operating Cisco Enterprise Network Core Technologies
 
-## Module 1: CCNP ENCOR - 01 Network Switching - Examining Cisco Enterprise Network Architecture
-expand
+## 1. Network Switching / 7h 25m / 7 courses
 
-badge
-Module 2: CCNP ENCOR - 01 Network Switching - Cisco Switching Paths
-expand
+### 1) Examining Cisco Enterprise Network Architecture
 
-badge
-Module 3: CCNP ENCOR - 01 Network Switching - Implementing Campus LAN Connectivity
-expand
+### 2) Cisco Switching Paths
 
-badge
-Module 4: CCNP ENCOR - 01 Network Switching - Building Redundant Switched Topology
-expand
+### 3) Implementing Campus LAN Connectivity
 
-badge
-Module 5: CCNP ENCOR - 01 Network Switching - Implementing Network Redundancy
-expand
+### 4) Building Redundant Switched Topology
 
-badge
-Module 6: CCNP ENCOR - 01 Network Switching - Implementing Layer 2 Port Aggregation
-expand
+### 5) Implementing Network Redundancy
 
-badge
-Module 7: CCNP ENCOR - 01 Network Switching - Introducing QoS
-expand
+### 6) Implementing Layer 2 Port Aggregation
 
-badge
-Checkpoint Exam: Network Switching
-expand
+### 7) Introducing QoS
 
-badge
-Module 8: CCNP ENCOR - 02 Network Routing - Explaining EIGRP
-expand
+## 2 Network Routing / 12h 10m / 6 courses
 
-badge
-Module 9: CCNP ENCOR - 02 Network Routing - Implementing OSPF
-expand
+### 1) Explaining EIGRP
 
-badge
-Module 10: CCNP ENCOR - 02 Network Routing - Optimizing OSPF
-expand
+### 2) Implementing OSPF
 
-badge
-Module 11: CCNP ENCOR - 02 Network Routing - Exploring EBGP
-expand
+### 3) Optimizing OSPF
 
-badge
-Module 12: CCNP ENCOR - 02 Network Routing - Introducing Multicast Protocols
-expand
+### 4) Exploring EBGP
 
-badge
-Module 13: CCNP ENCOR - 02 Network Routing - Implementing NAT
-expand
+### 5) Introducing Multicast Protocols
 
-badge
-Checkpoint Exam: Network Routing
-expand
+### 6) Implementing NAT
 
-badge
-Module 14: CCNP ENCOR - 03 Network Security - Implementing Infrastructure Security
-expand
+## 3. Network Security / 5h 30m / 3 courses
 
-badge
-Module 15: CCNP ENCOR - 03 Network Security - Exploring Enterprise Network Security Architecture
-expand
+### 1) Implementing Infrastructure Security
 
-badge
-Module 16: CCNP ENCOR - 03 Network Security - Implementing Secure Access Control
-expand
+### 2) Exploring Enterprise Network Security Architecture
 
-badge
-Checkpoint Exam: Network Security
-expand
+### 3) Implementing Secure Access Control
 
-badge
-Module 17: CCNP ENCOR - 04 Virtualization and Network Services - Introducing Virtualization Protocols and Techniques
-expand
+## 4. Wireless Networking / 6h 15m/ 6 courses
 
-badge
-Module 18: CCNP ENCOR - 04 Virtualization and Network Services - Exploring Virtual Private Networks and Interfaces
-expand
+### 1) Explaining Wireless Principles
 
-badge
-Module 19: CCNP ENCOR - 04 Virtualization and Network Services - Implementing Network Services
-expand
+### 2) Examining Wireless Deployment Options
 
-badge
-Module 20: CCNP ENCOR - 04 Virtualization and Network Services - Using Network Analysis Tools
-expand
+### 3) Exploring Wireless Roaming and Location Services
 
-badge
-Checkpoint Exam: Virtualization and Network Services
-expand
+### 4) Examining Wireless AP Operation
 
-badge
-Module 21: CCNP ENCOR - 05 Programmability - Discovering the Basics of Python Programming
-expand
+### 5) Implementing Wireless Client Authentication
 
-badge
-Module 22: CCNP ENCOR - 05 Programmability - Introducing Network Programmability Protocols
-expand
+### 6) Troubleshooting Wireless Client Connectivity
 
-badge
-Checkpoint Exam: Programmability
-expand
+## 5. Virtualization and Network Services / 6h 20m / 4 courses
 
-badge
-Module 23: CCNP ENCOR - 06 Software-Defined Networking - Exploring Cisco DNA Center—Network Automation and Management
-expand
+### 1) Introducing Virtualization Protocols and Techniques
 
-badge
-Module 24: CCNP ENCOR - 06 Software-Defined Networking - Examining the Cisco SD-Access Solution
-expand
+### 2) Exploring Virtual Private Networks and Interfaces
 
-badge
-Module 25: CCNP ENCOR - 06 Software-Defined Networking - Exploring the Working Principles of the Cisco SD-WAN Solution
-expand
+### 3) Implementing Network Services
 
-badge
-Module 26: CCNP ENCOR - 06 Software-Defined Networking - Introducing APIs in Cisco DNA Center and vManage
-expand
+### 4) Using Network Analysis Tools
 
-badge
-Checkpoint Exam: Software-Defined Networking
+## 6. Programmability / 4h 30m / 2 courses
+
+### 1) Discovering the Basics of Python Programming
+
+### 2) Introducing Network Programmability Protocols
+
+## 7. Software-Defined Networking / 5h 35m / 4 courses
+
+### 1) Exploring Cisco DNA Center—Network Automation and Management
+
+### 2) Examining the Cisco SD-Access Solution
+
+### 3) Exploring the Working Principles of the Cisco SD-WAN Solution
+
+### 4) Introducing APIs in Cisco DNA Center and vManage
+
