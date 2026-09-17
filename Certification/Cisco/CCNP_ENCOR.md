@@ -1,5 +1,9 @@
 # CCNP Enterprise: Implementing and Operating Cisco Enterprise Network Core Technologies | ENCOR
 
+## Resource
+
+* [Cisco U](https://u.cisco.com/paths/implementing-operating-cisco-enterprise-network-core-technologies-170)
+
 ## 1. Network Switching / 7h 25m / 7 courses
 
 ### 1) Examining Cisco Enterprise Network Architecture
