@@ -1,4 +1,4 @@
-# CCNP Enterprise: Implementing and Operating Cisco Enterprise Network Core Technologies
+# CCNP Enterprise: Implementing and Operating Cisco Enterprise Network Core Technologies | ENCOR
 
 ## 1. Network Switching / 7h 25m / 7 courses
 
